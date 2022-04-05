@@ -1,5 +1,6 @@
 # Matlab-Video-Processor
-###Using Matlab to create a small video processor that allows users to open a video format file and then extract information from it
+### You need to use matlab to run this and knowledge of 3D arrays for the speacial features. 
+##### Using Matlab to create a small video processor that allows users to open a video format file and then extract information from it
 
 The program utilizes various functions in order to process the video file.
 In the LOAD callback, I use the uigetfile function in order to prompt the user into selecting an
